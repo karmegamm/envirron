@@ -1,0 +1,5 @@
+export * from "@/pages/dashboard/supervisor/materials"
+export * from "@/pages/dashboard/supervisor/history"
+export * from "@/pages/dashboard/supervisor/quotation"
+export * from "@/pages/dashboard/supervisor/todaywork"
+export * from "@/pages/dashboard/supervisor/nmrWorks"
